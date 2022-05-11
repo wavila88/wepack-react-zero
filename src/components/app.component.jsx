@@ -7,6 +7,7 @@ const AppComponent =()=> {
   return(
     <>
     <h1 className='container-component'>Working react configured with webpack check {data?.data?.nombre || 'vacio'}</h1>
+    <h1>Hi updating image in flow v2</h1>
     </>
   )
 };
